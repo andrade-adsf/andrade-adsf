@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, my name is Felipe Andrade!👋
 
-<!--
-**andrade-adsf/andrade-adsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as data analyst on assignment on a bank in Brazil.
+- 👯 I’m looking to collaborate on Data Science projects.
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/andrade-adsf/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrade-adsf&theme=dark&show_icons=true&include_all_commits=true"
+</div>
+  
+<div style="display: inline_block"><br>
+  <img aling="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img aling="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+    
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/ads-felipe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@ads-felipe" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+</div>
