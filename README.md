@@ -1,6 +1,7 @@
 ### Hi there, my name is Felipe Andrade.
 
 #### Welcome to my profile!👋
+#### Please feel free to send me feedbacks of my projects on my linkedin!
 
 - 🔭 I’m currently working as data analyst on assignment on a bank in Brazil.
 - 👯 I’m looking to collaborate on Data Science projects.
