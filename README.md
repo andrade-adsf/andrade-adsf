@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrade-adsf&label=Profile%20views&color=0e75b6&style=flat" alt="andrade-adsf" /> </p>
 
-- 🔭 I’m currently working on Indra **on service @ Bradesco**
+- 🔭 I’m currently working **@ Claro**
 
 - 🌱 I’m learning software engineering **at 42 São Paulo**
 
